@@ -1,0 +1,5 @@
+rootProject.name = 'Junit2'
+include 'firstModule'
+include 'secondModule'
+include 'thirdModule'
+
